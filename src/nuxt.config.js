@@ -33,20 +33,14 @@ module.exports =  {
   */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios',
     '@nuxtjs/pwa',
   ],
-  /*
-  ** Axios module configuration
-  ** See https://axios.nuxtjs.org/options
-  */
-  axios: {
-  },
   /*
   ** Build configuration
   */
   buildDir: 'nuxt',
   build: {
+    extractCSS: true,
     /*
     ** You can extend webpack config here
     */
