@@ -1,4 +1,4 @@
-# nuxt-firebase-ssr-base
+# Nuxt firebase SSR base
 This is simple starting base for Nuxt Firebase SSR app
 
 - Install npm dependencies
