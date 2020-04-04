@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "^3.0.0-beta.16",
-    "acorn": "^6.2.1",
+    "acorn": "^6.4.1",
     "clone": "^2.1.2",
     "compression": "^1.7.4",
     "core-js": "^3.1.4",
